@@ -1,5 +1,5 @@
 
-String inputString = "";         // a string to hold incoming dada
+String inputString = "";         // a string to hold incoming data
 String inCharS = "";
 String inCharD = "";
 String inCharB = "Hello";
